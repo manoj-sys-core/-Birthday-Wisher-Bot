@@ -12,11 +12,11 @@ Automate birthday wishes like a pro! This Python script reads a list of birthday
 
 ## 📁 Project Structure
 
-\`\`\`
+\`\`\
 Birthday-Wisher-Bot/
-├── main.py                  # Main script that checks today's birthdays and sends emails
-├── birthdays.csv            # Your list of birthday people
-└── letter_templates/        # Folder containing 3 customizable letter templates
+├── main.py                 
+├── birthdays.csv            
+└── letter_templates/      
     ├── letter_1.txt
     ├── letter_2.txt
     └── letter_3.txt
