@@ -12,7 +12,7 @@ Automate birthday wishes like a pro! This Python script reads a list of birthday
 
 ## 📁 Project Structure
 
-\`\`\
+```bash
 Birthday-Wisher-Bot/
 ├── main.py                 
 ├── birthdays.csv            
@@ -20,8 +20,7 @@ Birthday-Wisher-Bot/
     ├── letter_1.txt
     ├── letter_2.txt
     └── letter_3.txt
-\`\`\`
-
+```
 ## 🛠 Requirements
 
 - Python 3.x  
